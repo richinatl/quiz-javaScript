@@ -60,6 +60,10 @@ button:hover {
   padding-top: 5rem;
 }
 
+.hide {
+  display: none;
+}
+
 .slide {
   position: absolute;
   left: 0;
@@ -87,4 +91,8 @@ button:hover {
   font-weight: 700;
   font-size: 4rem;
   margin-top: 5rem;
+}
+.timer--container {
+  font-size: 3rem;
+  font-weight: bold;
 }
